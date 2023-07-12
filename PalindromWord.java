@@ -1,6 +1,6 @@
 package patika_soru_cevaplari.com;
 
-public class PalindromNumber {
+public class PalindromWord {
     public static void main(String[] args) {
         System.out.println(" isPalindrom : " + isPalindrom("Köksal is  a Software engineer in Sweden"));
     }
