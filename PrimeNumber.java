@@ -14,7 +14,11 @@ public class PrimeNumber {
                 }
             }
             if (isPrime) {
+<<<<<<< HEAD
                 System.out.print(i + "  ");
+=======
+                System.out.print(i + " ,");
+>>>>>>> 660863f16a266c86e8d477efe967626ba54aa269
             }
         }
     }
