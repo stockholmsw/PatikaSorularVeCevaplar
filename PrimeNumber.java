@@ -14,7 +14,7 @@ public class PrimeNumber {
                 }
             }
             if (isPrime) {
-
+                System.out.print(i + " ");
             }
         }
     }
